@@ -84,7 +84,7 @@ main h1{
 main h2{
     color: var(--cor03);
     font-family: var(--fontetitulosh2);
-    background-image: linear-gradient(to right, #aeff00, white);
+    background-image: linear-gradient(to right, #8ec6ff, white);
 }
 
 main img{
